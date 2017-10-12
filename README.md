@@ -6,12 +6,19 @@ This project provide a wide variety of ressources related to Information Securit
 A collection of software, websites, libraries, documents, conferences, tools, books, resources and cool stuff about security.
 
 
+## Technical : 
 
+### Basic stuff : 
+* [FR] Basic information about HTTP/Dynamic Inclusion/XSS/SQLi ... http://www.bases-hacking.org/failles-web.html
 
 GDB - GNU symbolic debugger : 
 Description of GDB, 
 * https://sourceware.org/gdb/current/onlinedocs/gdb/
 
+## General Informations : 
+### Risk management
+
+## Other : 
 Other awesome list of security related ressources : 
 * https://github.com/sbilly/awesome-security
 * https://github.com/onlurking/awesome-infosec
