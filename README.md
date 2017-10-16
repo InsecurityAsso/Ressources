@@ -15,6 +15,7 @@ Our website : [FR] https://insecurity-insa.fr/ // Our event : [FR] https://insha
 General knowledge to have :
 * [EN] https://www.owasp.org
 * [FR] http://www.bases-hacking.org/failles-web.html
+* [FR] https://hackademics.fr
 
 #### Advanced
 Exploit library, collection of tools or procedures AFTER getting an access : 
@@ -33,6 +34,10 @@ SQLi, SQL Injection :
 Cryptography : 
 * [FR] http://www.apprendre-en-ligne.net/crypto/stat/index.html
 
+Buffer overflow, reverse : 
+* [EN] https://mcuoneclipse.com/2013/04/14/text-data-and-bss-code-and-data-size-explained/ (explanations on ELF structure)
+* [FR] https://hackademics.fr/forum/hacking-connaissances-avancées/reversing/autres-aq/3096-reversing-tutorials-level-2-le-format-elf (French equivalent)
+
 ### BugBounty
 Tutorials, general informations, getting started : 
 * https://sites.google.com/site/bughunteruniversity/
@@ -46,6 +51,7 @@ Library of challenges :
 ### Write-ups & Blogs
 Write-ups : 
 * [FR] http://bases-hacking.org/
+* [EN] http://hugodelval.com/bug_bounties
 
 General articles : 
 * [FR] http://www.n0secure.org/
@@ -78,6 +84,8 @@ Nessus :
 * [EN] https://www.tenable.com/products/nessus-vulnerability-scanner
 
 #### Cryptography tool : 
+RSA decomposer : 
+* [EN] http://factordb.com 
 
 #### Advanced
 ### Books
@@ -130,6 +138,7 @@ GDB - GNU symbolic debugger :
 # Contributing
 
 Feel free to contact us, to add resources. PR welcomed.
+Help for contributing : https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940
 
 # Authors
 See also the list of [contributors] who participated in this project.
