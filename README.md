@@ -96,6 +96,9 @@ Book list :
 ### Risk management
 Incident Response : 
 * [EN/ES/RU] https://github.com/certsocietegenerale/IRM
+Risk related articles : 
+* [EN] https://www.securitynow.com/author.asp?section_id=610&doc_id=737258&
+* [EN] https://www.securitynow.com/author.asp?section_id=613&doc_id=737062&
 
 ### General articles 
 Wide-view articles : 
@@ -123,6 +126,10 @@ Live platform for programming skills :
 
 Training for programming skills :
 + [EN] https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+
+Python ressources : 
+* [EN] http://pub.phyks.me/sdz/sdz/utilisation-avancee-des-listes-en-python.html
+* [FR] http://apprendre-python.com/page-apprendre-listes-list-tableaux-tableaux-liste-array-python-cours-debutant
 
 ## Advanced stuff 
 Information about common languages :
