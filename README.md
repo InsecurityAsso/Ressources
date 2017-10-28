@@ -71,6 +71,9 @@ DEFCon Conferences :
 ##### Password tools : 
 Password Recovery tools : 
 * [EN] Abel & Cain : http://www.oxid.it/cain.html
+* [EN] John the Ripper : http://www.openwall.com/john/
+* [EN] Ophcrack (Rainbow tables for LM & NTLM hashes) : http://ophcrack.sourceforge.net/
+* [EN] BIOS Password Recovery for Laptops : https://bios-pw.org/
 
 ##### Network tools
 Network discovery :
@@ -83,9 +86,18 @@ Network Protection Bypass :
 Nessus : 
 * [EN] https://www.tenable.com/products/nessus-vulnerability-scanner
 
+Sqlmap :
+* [EN] http://sqlmap.org/
+
+Burp :
+* [EN] https://portswigger.net/burp
+
 #### Cryptography tool : 
 RSA decomposer : 
 * [EN] http://factordb.com 
+
+OpenSSL :
+* [EN] https://www.openssl.org/
 
 #### Advanced
 ### Books
