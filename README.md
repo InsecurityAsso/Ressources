@@ -125,6 +125,7 @@ Other awesome list of security related resources :
 * https://github.com/onlurking/awesome-infosec
 * https://github.com/PaulSec/awesome-sec-talks
 * https://github.com/Hack-with-Github/Awesome-Hacking
+* https://github.com/EdOverflow/bugbounty-cheatsheet
 
 More generally, a list of awesome list :
 * https://github.com/sindresorhus/awesome
