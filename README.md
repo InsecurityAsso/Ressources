@@ -104,6 +104,11 @@ OpenSSL :
 Book list : 
 * [FR] https://securite.developpez.com/livres/index/?page=Securite-offensive-Pentesting-Ethical-hacking
 
+### Emulation
+4G network (Basestation, User equipement, etc.) : 
+  [EN] https://github.com/srsLTE/srsLTE 
+  {EN] USRP B210 (card) : https://www.ettus.com/product/details/UB210-KIT 
+
 ## Not-Technical
 ### Risk management
 Incident Response : 
