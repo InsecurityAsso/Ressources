@@ -68,6 +68,11 @@ DEFCon Conferences :
 
 ### Tools
 #### Basic
+
+##### File analysis :
+Binwalk :
+* [EN] Binwalk : https://github.com/ReFirmLabs/binwalk
+
 ##### Password tools : 
 Password Recovery tools : 
 * [EN] Abel & Cain : http://www.oxid.it/cain.html
@@ -82,6 +87,9 @@ Network discovery :
 Network Protection Bypass :
 * [FR] Iodine : http://blog.gaetan-grigis.eu/systeme/iodine-et-dns-tunneling/#more-843
 
+WiFi Network :
+* [EN] Aircrack-ng : https://www.aircrack-ng.org/
+
 ##### Automatic tools : 
 Nessus : 
 * [EN] https://www.tenable.com/products/nessus-vulnerability-scanner
@@ -92,12 +100,22 @@ Sqlmap :
 Burp :
 * [EN] https://portswigger.net/burp
 
-#### Cryptography tool : 
+Nikto :
+* [EN] https://cirt.net/Nikto2
+
+##### Cryptography tool : 
 RSA decomposer : 
 * [EN] http://factordb.com 
 
 OpenSSL :
 * [EN] https://www.openssl.org/
+
+##### Forensic tool :
+Volatility :
+* [EN] https://www.volatilityfoundation.org/
+
+TestDisk/PhotoRec :
+* [EN] https://www.cgsecurity.org/wiki/Main_Page
 
 #### Advanced
 ### Books
