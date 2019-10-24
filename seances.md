@@ -4,5 +4,5 @@ Ici, vous trouverez les résumés et documents importants de chaque séance que 
 
 - [Séance 1 - Présentation générale de l'association, Training-CTF (10/10/2019)](./seances/seance-1.md)
 - [Séance 2 - Introduction à la sécurité des applications Web + SQLi/XSS (17/10/2019)](./seances/seance-2.md)
-- [Séance 3 - Sécurité des applications Web, suite](./seances/seance-3) (24/10/2019)
+- [Séance 3 - Sécurité des applications Web, suite(./seances/seance-3.md)](24/10/2019)
 
