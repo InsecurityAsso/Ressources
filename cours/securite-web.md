@@ -2,13 +2,13 @@
 
 Avant de voir comment attaquer un site Web, il est impératif de comprendre dans les grandes lignes les technologies utilisées.
 
-> On pourrait passer de nombreuses heures à parler des technologies Web (cf. cours de IF et TC), nous n'évoquerons ici que les grandes lignes de ce qu'est une application Web, en essayant de me concentrer sur les aspects utiles du point de vu de la sécurité.
+> On pourrait passer de nombreuses heures à parler des technologies Web (cf. cours de IF et TC), nous n'évoquerons ici que les grandes lignes de ce qu'est une application Web, en essayant de se concentrer sur les aspects utiles du point de vue de la sécurité.
 
 ## Le serveur (au sens physique du terme)
 
 ### Comprendre l'accès à un site internet
 
-Que ce passe-t-il quand on accède à un site internet, par exemple http://example.com/ ?
+Que se passe-t-il quand on accède à un site internet, par exemple http://example.com/ ?
 
 -  Déjà, accéder à un site internet c'est avant tout interagir avec un autre ordinateur, eh oui n'importe quel ordinateur peut être utilisé pour héberger un site (nous verrons comment juste après) ! Dans ce cas, on appellera plutôt l'ordinateur **serveur**.
 - Ce serveur est ici identifié par un **nom d'hôte** (ici *example.com*), lui-même associé à une à une **adresse IP** (ici *93.184.216.34*) servant à identifier le serveur de manière unique.
@@ -44,7 +44,7 @@ Afin de bien comprendre comment est utilisé un service hébergé sur un serveur
 jbedel@jbedel-pc:~$ ssh 192.168.1.99
 ```
 
-C'est aussi simple que ça ! En tapant cette commande le serveur va demander un mot de passe et nous pourrons nous y connecter y connecter. Chaque protocole à son propre langage, et nous allons justement voir en détail un peu plus bas le cas du protocole HTTP.
+C'est aussi simple que ça ! En tapant cette commande le serveur va demander un mot de passe et nous pourrons nous y connecter. Chaque protocole a son propre langage, et nous allons justement voir en détail un peu plus bas le cas du protocole HTTP.
 
 Nmap est un outil très puissant, qui permettra également de découvrir les versions des services tournant sur le serveur.  Exemple :
 
@@ -94,7 +94,7 @@ Regardons un peu la réponse que le site envoi à notre navigateur :
 Ici encore toutes les lignes ne nous intéressent pas :
 
 - `HTTP/1.1` : le protocole utilisé
-- `200 OK` : qui indique que la ressource à bien pu être accédé, voir [la documentation](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP) pour les autres codes de retour (c'est de là que vient la fameuse "erreur 404").
+- `200 OK` : qui indique que la ressource à bien pu être accédée, voir [la documentation](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP) pour les autres codes de retour (c'est de là que vient la fameuse "erreur 404").
 - `Server: Apache/2.4.41` : pas toujours présent, indique le serveur web (cette fois au sens logiciel du terme) qui va s'occuper de gérer les requêtes
 - Le code HTML
 
