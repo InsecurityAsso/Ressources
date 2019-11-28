@@ -10,12 +10,3 @@ Il vous faudra déployer le site sur vos postes respectifs :
 - Soit en machine virtuelle sous Virtualbox à partir d'un OVA que l'on peut récupérer ici https://moodle.insa-lyon.fr/mod/url/view.php?id=81533 (à importer sous Virtualbox)
 
 Enfin, une fois une vulnérabilité découverte vous aurez l'occasion de la reporter http://tc-secu-vms.insa-lyon.fr/, et le bureau de l'association iront les vérifie (accessible uniquement depuis le réseau INSA, si besoin passer par [https://vpn.insa-lyon.fr](https://vpn.insa-lyon.fr), ou directement depuis Eduroam)
-
-
-
-
-
-
-
-## Ressources utiles
-
