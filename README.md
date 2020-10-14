@@ -2,9 +2,8 @@
 
 Bienvenu sur le portail des ressources de l'association InSecurity ! Ici, vous trouverez de nombreuses informations utiles telles que :
 
-- [Les résumés de chaque séance (avec diapos, outils...) de l'association](https://github.com/InsecurityAsso/Ressources/blob/master/seances.md)
+- [Les résumés de chaque séance (avec diapos, ressources...) de l'association](./seances.md)
+- Des fiches d'introductions aux grandes catégories de challenge en CTF
 - Des ressources documentaires (sites, livres...) pour apprendre la sécurité informatique
-- La présentation d'outils utiles pour la sécurité informatique
-- Divers tutoriels (ex: mettre en place une machine virtuels)
 
 Le portail des ressources étant en pleine refonte, tout n'est pas encore disponible, mais vous pouvez encore consulter [celui mis en places les années précédentes](./old.md).

@@ -14,9 +14,9 @@ Nous avons également abordé la notion de *shell* à distance, et la manière d
 ## Ressources utiles
 
 - [Diapo utilisé pendant la séance](https://docs.google.com/presentation/d/1cIjUMn6p4bEAceIDbxXR7wyppB5SKHCB9dGoYIz9WUE/edit?usp=sharing)
-- [Installation de ZAP](../cours/installation-zap.md) (de plus en plus recommandé au fil des séances Web..)
+- [Installation de ZAP](../../resources/misc/installation-zap.md) (de plus en plus recommandé au fil des séances Web..)
 - [Hacksplaining](https://www.hacksplaining.com/lessons), le site utilisé pour apprendre et s'entraîner pendant la séance
-- [Le répertoire Github de DVWA](https://github.com/ethicalhack3r/DVWA)  avec tuto d'installation sur différentes plateformes (en dur, en machine virtuelle, sous Docker). Personnellement, je trouve que Docker est le plus facile et rapide, mais il faut déjà connaître un peu, cf. [tuto d'introduction à Docker](../cours/introduction-docker.md) (attention l'installation n'est montrée que pour Linux, mais on trouve plein de tutos pour Windows sur internet)
+- [Le répertoire Github de DVWA](https://github.com/ethicalhack3r/DVWA)  avec tuto d'installation sur différentes plateformes (en dur, en machine virtuelle, sous Docker). Personnellement, je trouve que Docker est le plus facile et rapide, mais il faut déjà connaître un peu, cf. [tuto d'introduction à Docker](../../resources/misc/introduction-docker.md) (attention l'installation n'est montrée que pour Linux, mais on trouve plein de tutos pour Windows sur internet)
 - Les challenges de RootMe correspondant aux vulnérabilités présentés :
   - [File upload - Double extensions](https://www.root-me.org/fr/Challenges/Web-Serveur/File-upload-double-extensions)
   - [File upload - Type MIME](https://www.root-me.org/fr/Challenges/Web-Serveur/File-upload-type-MIME)

@@ -14,9 +14,9 @@ Nous avons mis en place pour cette première séance un CTF débutant permettant
 
 Quelques captures d'écrans de la plateforme: 
 
-![Training-CTF](../data/images/Screenshot-20191012201442-1196x548.png)
+![Training-CTF](../../data/images/Screenshot-20191012201442-1196x548.png)
 
-![challenges](../data/images/Screenshot-20191012201645-1290x789.png)
+![challenges](../../data/images/Screenshot-20191012201645-1290x789.png)
 
 ## Ressources utiles
 
