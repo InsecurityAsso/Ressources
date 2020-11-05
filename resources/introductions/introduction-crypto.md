@@ -1,4 +1,4 @@
-## Les challenges Web
+## Les challenges Crypto
 
 La cryptographie est l'art de communiquer des messages secrets. Cette discipline est utilisée en permanence sur vos appareils, que ça soit lorsque vous vous connectez de manière sécurisée à un site web ou bien lorsque vous déverrouillez votre téléphone portable..
 
