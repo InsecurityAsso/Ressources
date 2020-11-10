@@ -1,4 +1,4 @@
-# Poursuite des ateliers de la première séance (22/10/2019)
+# Séance 2 - Atelier Web ou Pentest sur LAMP Security (22/10/2020)
 
 ## Résumé de la séance
 
