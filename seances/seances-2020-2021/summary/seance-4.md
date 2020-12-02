@@ -9,7 +9,7 @@ PS2 : nous avons enregistré la séance en vidéo, n'hésitez pas à la demander
 
 ## Présentation Crypto
 
-Nous avons présenté ([diapo ici](Séance 4 - Atelier Cryptographie Moderne (10/11/2020))) les grands principes de la cryptographie symétrique moderne dont :
+Nous avons présenté ([diapo ici](https://docs.google.com/presentation/d/15HBYyuY7U9zb0hr6mtMrRJzt0uKTrfk4r4amd7Y3uvY/edit)) les grands principes de la cryptographie symétrique moderne dont :
 
 - Le chiffrement symétrique naïf
 - Les caractéristiques des chiffrements symétriques modernes (bits, XOR..)
