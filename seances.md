@@ -4,3 +4,4 @@ Ici, vous trouverez les résumés et documents importants de chaque séance que 
 
 - [Séance 2019-2020](./seances/seances-2019-2020/seances-2019-2020.md)
 - [Séance 2020-2021](./seances/seances-2020-2021/seances-2020-2021.md)
+- [Séance 2021-2022](./seances/seances-2021-2022/seances-2020-2021.md)
